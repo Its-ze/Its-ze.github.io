@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The public GitHub hub for Its-ze: projects, activity cadence, and build notes from the ITSZ workshop.">
+    <meta name="theme-color" content="#111115">
+    <meta property="og:title" content="ITSZ / Its-ze GitHub Hub">
+    <meta property="og:description" content="A fun public hub for hardware builds, firmware tools, apps, radio utilities, and GitHub activity.">
+    <meta property="og:type" content="website">
+    <title>ITSZ / Its-ze GitHub Hub</title>
+    <link rel="preconnect" href="https://api.github.com">
+    <link rel="preconnect" href="https://avatars.githubusercontent.com">
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <header class="site-top">
+      <a class="brand-link" href="#top" aria-label="Go to top">
+        <span class="brand-mark">IZ</span>
+        <span>Its-ze Hub</span>
+      </a>
+      <nav class="top-nav" aria-label="Primary">
+        <a href="#pulse">Pulse</a>
+        <a href="#projects">Projects</a>
+        <a href="#about">About</a>
+      </nav>
+      <a class="icon-link" href="https://github.com/Its-ze" target="_blank" rel="noreferrer">
+        <i data-lucide="git-branch" aria-hidden="true"></i>
+        <span>GitHub</span>
+      </a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Public build log, app shelf, and hardware lab</p>
+          <h1 id="hero-title">ITSZ / Its-ze</h1>
+          <p class="lede">
+            I build public tools that bounce between firmware, cyberdeck experiments, SDR utilities,
+            creative software, and practical web apps. This page is the front door for the projects
+            that are ready to show.
+          </p>
+          <div class="hero-actions" aria-label="Main actions">
+            <a class="button button-primary" href="#projects">
+              <i data-lucide="layout-grid" aria-hidden="true"></i>
+              <span>Explore projects</span>
+            </a>
+            <a class="button" href="https://github.com/Its-ze?tab=repositories" target="_blank" rel="noreferrer">
+              <i data-lucide="external-link" aria-hidden="true"></i>
+              <span>Open repos</span>
+            </a>
+          </div>
+        </div>
+
+        <aside class="profile-panel" aria-label="Live GitHub profile summary">
+          <img id="avatar" class="avatar" src="https://avatars.githubusercontent.com/u/185654171?v=4" alt="Its-ze GitHub avatar">
+          <div>
+            <p class="panel-label">GitHub profile</p>
+            <h2 id="profile-name">Its-ze</h2>
+            <p id="profile-bio">Loading public profile signal...</p>
+          </div>
+          <dl class="profile-stats">
+            <div>
+              <dt>Public repos</dt>
+              <dd id="stat-repos">10</dd>
+            </div>
+            <div>
+              <dt>Active in 90d</dt>
+              <dd id="stat-active-90">0</dd>
+            </div>
+            <div>
+              <dt>Latest update</dt>
+              <dd id="stat-latest">Checking</dd>
+            </div>
+          </dl>
+        </aside>
+      </section>
+
+      <section id="pulse" class="band pulse-band" aria-labelledby="pulse-title">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Frequency of doing stuff</p>
+            <h2 id="pulse-title">Public activity pulse</h2>
+          </div>
+          <p id="activity-note">Using live public GitHub data when available.</p>
+        </div>
+
+        <div class="pulse-grid" aria-label="GitHub activity summary">
+          <article>
+            <p>Recent moves</p>
+            <strong id="stat-events">Loading</strong>
+            <span id="stat-events-label">public events in the last 30 days</span>
+          </article>
+          <article>
+            <p>Busy lane</p>
+            <strong id="stat-language">Loading</strong>
+            <span>most common public repo language</span>
+          </article>
+          <article>
+            <p>Current streak</p>
+            <strong id="stat-streak">Loading</strong>
+            <span>repo updates within the last 30 days</span>
+          </article>
+        </div>
+
+        <div class="timeline-wrap">
+          <div class="timeline-labels">
+            <span>12-week public rhythm</span>
+            <span id="timeline-source">events and repo updates</span>
+          </div>
+          <div id="week-bars" class="week-bars" aria-label="Public GitHub activity by week"></div>
+        </div>
+      </section>
+
+      <section id="projects" class="band projects-band" aria-labelledby="projects-title">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Public GitHub</p>
+            <h2 id="projects-title">Project dock</h2>
+          </div>
+          <p id="repo-count">Loading repositories...</p>
+        </div>
+
+        <div class="project-controls" aria-label="Repository controls">
+          <div class="search-box">
+            <i data-lucide="search" aria-hidden="true"></i>
+            <label class="sr-only" for="repo-search">Search repositories</label>
+            <input id="repo-search" type="search" placeholder="Search projects, languages, or descriptions">
+            <button id="clear-search" class="clear-search" type="button" aria-label="Clear search" title="Clear search" disabled>
+              <i data-lucide="x" aria-hidden="true"></i>
+            </button>
+          </div>
+          <div class="filter-row" role="group" aria-label="Filter repositories">
+            <button class="filter-button is-active" type="button" data-filter="all">All</button>
+            <button class="filter-button" type="button" data-filter="hardware">Hardware</button>
+            <button class="filter-button" type="button" data-filter="apps">Apps</button>
+            <button class="filter-button" type="button" data-filter="web">Web</button>
+            <button class="filter-button" type="button" data-filter="tools">Tools</button>
+          </div>
+        </div>
+
+        <div id="repo-grid" class="repo-grid" aria-live="polite"></div>
+      </section>
+
+      <section id="about" class="band about-band" aria-labelledby="about-title">
+        <div class="about-grid">
+          <div>
+            <p class="eyebrow">About me</p>
+            <h2 id="about-title">Builder energy, public notes, useful releases.</h2>
+            <p>
+              My public work usually starts with a real tool I want to use: flash a device in the
+              browser, scan radio signals, manage a field console, clean up a creative workflow,
+              or package something rough into a release other people can try.
+            </p>
+          </div>
+          <ul class="about-list" aria-label="What this hub focuses on">
+            <li><strong>Hardware first:</strong> cyberdecks, ESP32 boards, T-Deck workflows, and pager experiments.</li>
+            <li><strong>Useful software:</strong> apps, utilities, dashboards, and recovery tools with practical UI.</li>
+            <li><strong>Public cadence:</strong> latest repo updates, active areas, and live GitHub links in one place.</li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>Built for GitHub Pages.</span>
+      <a href="https://github.com/Its-ze" target="_blank" rel="noreferrer">github.com/Its-ze</a>
+    </footer>
+  </body>
+</html>
