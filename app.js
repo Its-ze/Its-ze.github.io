@@ -2,11 +2,14 @@ const USER = "Its-ze";
 const profileUrl = `https://api.github.com/users/${USER}`;
 const reposUrl = `https://api.github.com/users/${USER}/repos?per_page=100&sort=updated`;
 const eventsUrl = `https://api.github.com/users/${USER}/events/public?per_page=100`;
+const pagesUrl = "data/pages.json";
 
 const state = {
   profile: null,
   repos: [],
   events: [],
+  pages: [],
+  pagesByRepo: new Map(),
   filter: "all",
   query: ""
 };
@@ -42,18 +45,22 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 async function hydrate() {
-  const [profile, repos, events] = await Promise.all([
+  const [profile, repos, events, pages] = await Promise.all([
     fetchJson(profileUrl, "data/profile.json"),
     fetchJson(reposUrl, "data/repos.json"),
-    fetchOptionalJson(eventsUrl)
+    fetchOptionalJson(eventsUrl),
+    fetchOptionalJson(pagesUrl)
   ]);
 
   state.profile = profile;
+  state.pages = Array.isArray(pages) ? pages : [];
+  state.pagesByRepo = new Map(state.pages.map((page) => [page.repo, page]));
   state.repos = repos.map(normalizeRepo).sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
   state.events = Array.isArray(events) ? events : [];
 
   renderProfile();
   renderPulse();
+  renderPages();
   renderRepos();
   renderIcons();
 }
@@ -206,10 +213,51 @@ function renderRepos() {
   renderIcons();
 }
 
+function renderPages() {
+  const grid = document.querySelector("#pages-grid");
+  if (!grid) return;
+
+  setText("#pages-count", `${state.pages.length} verified project pages linked`);
+
+  if (!state.pages.length) {
+    grid.innerHTML = `<div class="empty-state">No sibling GitHub Pages links are configured yet.</div>`;
+    return;
+  }
+
+  grid.innerHTML = state.pages.map((page) => pageCard(page)).join("");
+  renderIcons();
+}
+
+function pageCard(page) {
+  return `
+    <article class="page-card">
+      <div class="page-card-top">
+        <span class="page-label">${escapeHtml(page.label || "Live page")}</span>
+        <span>${escapeHtml(page.status || "Live")}</span>
+      </div>
+      <h3>${escapeHtml(page.title)}</h3>
+      <p>${escapeHtml(page.description || "A public GitHub Pages site from the ITSZ workspace.")}</p>
+      <div class="page-actions">
+        <a class="button button-primary" href="${escapeAttr(page.url)}" target="_blank" rel="noreferrer">
+          <i data-lucide="external-link" aria-hidden="true"></i>
+          <span>Open page</span>
+        </a>
+        <a class="button" href="${escapeAttr(page.repoUrl)}" target="_blank" rel="noreferrer">
+          <i data-lucide="git-branch" aria-hidden="true"></i>
+          <span>Repo</span>
+        </a>
+      </div>
+    </article>
+  `;
+}
+
 function repoCard(repo) {
   const description = repo.description || "A public project from the ITSZ workspace.";
   const languageColor = languageColors[repo.language] || languageColors.Unknown;
-  const homepage = repo.homepage ? `<a href="${escapeAttr(repo.homepage)}" target="_blank" rel="noreferrer"><i data-lucide="globe" aria-hidden="true"></i><span>Site</span></a>` : "";
+  const page = state.pagesByRepo.get(repo.name);
+  const siteUrl = page?.url || repo.homepage;
+  const siteLabel = page ? "Page" : "Site";
+  const homepage = siteUrl ? `<a href="${escapeAttr(siteUrl)}" target="_blank" rel="noreferrer"><i data-lucide="globe" aria-hidden="true"></i><span>${siteLabel}</span></a>` : "";
   const tags = repo.tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("");
 
   return `

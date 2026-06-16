@@ -1,5 +1,16 @@
 [
   {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "CSS",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-16T15:06:19Z",
+    "homepage": "https://its-ze.github.io/",
+    "topics": []
+  },
+  {
     "name": "Z-Deck-Web-Flasher",
     "html_url": "https://github.com/Its-ze/Z-Deck-Web-Flasher",
     "description": "Public browser flasher for the ITSZ Z-Deck Firmware Pack.",

@@ -1,0 +1,47 @@
+[
+  {
+    "repo": "Z-Deck-Web-Flasher",
+    "title": "Z-Deck Web Flasher",
+    "url": "https://its-ze.github.io/Z-Deck-Web-Flasher/",
+    "repoUrl": "https://github.com/Its-ze/Z-Deck-Web-Flasher",
+    "label": "Firmware flasher",
+    "description": "Browser-based public flasher for the ITSZ Z-Deck Firmware Pack.",
+    "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "nightgrid-cyberdeck",
+    "title": "NightGrid Cyberdeck",
+    "url": "https://its-ze.github.io/nightgrid-cyberdeck/",
+    "repoUrl": "https://github.com/Its-ze/nightgrid-cyberdeck",
+    "label": "Installer page",
+    "description": "Download and release page for the NightGrid dark field-console build.",
+    "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "WavePilot-SDR",
+    "title": "WavePilot SDR",
+    "url": "https://its-ze.github.io/WavePilot-SDR/",
+    "repoUrl": "https://github.com/Its-ze/WavePilot-SDR",
+    "label": "App download",
+    "description": "Public page for the cross-platform RTL-SDR scanner and listener.",
+    "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "ITSZ-Studio",
+    "title": "ITSZ Studio",
+    "url": "https://its-ze.github.io/ITSZ-Studio/",
+    "repoUrl": "https://github.com/Its-ze/ITSZ-Studio",
+    "label": "Download page",
+    "description": "Release page for the ITSZ Studio photo viewer and editor.",
+    "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "itsolutionsdigital.github.io",
+    "title": "IT Solutions Digital",
+    "url": "https://itsolutions.digital/",
+    "repoUrl": "https://github.com/Its-ze/itsolutionsdigital.github.io",
+    "label": "Custom domain",
+    "description": "Public business website and ticketing entrypoint served from GitHub Pages.",
+    "status": "GitHub Pages custom domain"
+  }
+]

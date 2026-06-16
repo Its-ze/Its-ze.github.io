@@ -288,6 +288,10 @@ dd {
   background: #17171b;
 }
 
+.pages-band {
+  background: #121718;
+}
+
 .projects-band {
   background: #111115;
 }
@@ -474,6 +478,64 @@ dd {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
+}
+
+.pages-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.page-card {
+  min-height: 238px;
+  display: grid;
+  grid-template-rows: auto auto 1fr auto;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+}
+
+.page-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(45, 212, 191, 0.5);
+}
+
+.page-card-top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.page-label {
+  padding: 6px 8px;
+  border-radius: 999px;
+  color: #101014;
+  background: var(--cyan);
+  font-weight: 900;
+}
+
+.page-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.page-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.page-actions .button {
+  min-height: 36px;
+  padding: 0 10px;
+  font-size: 0.9rem;
 }
 
 .repo-card {
@@ -691,6 +753,7 @@ dd {
   }
 
   .pulse-grid,
+  .pages-grid,
   .repo-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -741,6 +804,7 @@ dd {
 
   .profile-stats,
   .pulse-grid,
+  .pages-grid,
   .repo-grid {
     grid-template-columns: 1fr;
   }
