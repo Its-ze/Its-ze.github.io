@@ -1,5 +1,27 @@
 [
   {
+    "name": "tdeck-cyberdeck",
+    "html_url": "https://github.com/Its-ze/tdeck-cyberdeck",
+    "description": "Public T-Deck Cyberdeck T-Dongle control-unit flasher and deck metadata.",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-18T14:42:37Z",
+    "homepage": "https://its-ze.github.io/tdeck-cyberdeck/",
+    "topics": []
+  },
+  {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-18T13:31:29Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "tdongle-usb-adapter",
     "html_url": "https://github.com/Its-ze/tdongle-usb-adapter",
     "description": "VoidLink T-Dongle USB NCM virtual adapter firmware and deck installer.",
@@ -29,17 +51,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-06-16T16:06:40Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-06-16T15:21:28Z",
     "homepage": null,
     "topics": []
   },

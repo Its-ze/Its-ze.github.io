@@ -52,5 +52,14 @@
     "label": "GitHub Pages",
     "description": "VoidLink T-Dongle USB NCM virtual adapter firmware and deck installer.",
     "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "tdeck-cyberdeck",
+    "title": "Tdeck Cyberdeck",
+    "url": "https://its-ze.github.io/tdeck-cyberdeck/",
+    "repoUrl": "https://github.com/Its-ze/tdeck-cyberdeck",
+    "label": "GitHub Pages",
+    "description": "Public T-Deck Cyberdeck T-Dongle control-unit flasher and deck metadata.",
+    "status": "Live GitHub Pages"
   }
 ]
