@@ -1,13 +1,13 @@
 [
   {
-    "name": "tdeck-cyberdeck",
-    "html_url": "https://github.com/Its-ze/tdeck-cyberdeck",
-    "description": "Public T-Deck Cyberdeck T-Dongle control-unit flasher and deck metadata.",
-    "language": null,
+    "name": "WavePilot-SDR",
+    "html_url": "https://github.com/Its-ze/WavePilot-SDR",
+    "description": "Cross-platform RTL-SDR scanner and live listener for Windows and Linux",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-06-18T14:42:37Z",
-    "homepage": "https://its-ze.github.io/tdeck-cyberdeck/",
+    "updated_at": "2026-06-18T22:20:02Z",
+    "homepage": null,
     "topics": []
   },
   {
@@ -17,8 +17,19 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-06-18T13:31:29Z",
+    "updated_at": "2026-06-18T20:38:36Z",
     "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "tdeck-cyberdeck",
+    "html_url": "https://github.com/Its-ze/tdeck-cyberdeck",
+    "description": "Public T-Deck Cyberdeck T-Dongle control-unit flasher and deck metadata.",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-18T14:42:37Z",
+    "homepage": "https://its-ze.github.io/tdeck-cyberdeck/",
     "topics": []
   },
   {
@@ -51,17 +62,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-06-16T16:06:40Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "WavePilot-SDR",
-    "html_url": "https://github.com/Its-ze/WavePilot-SDR",
-    "description": "Cross-platform RTL-SDR scanner and live listener for Windows and Linux",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-06-14T16:05:58Z",
     "homepage": null,
     "topics": []
   },
