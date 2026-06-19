@@ -1,5 +1,16 @@
 [
   {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-19T15:42:12Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "Z-Deck-Web-Flasher",
     "html_url": "https://github.com/Its-ze/Z-Deck-Web-Flasher",
     "description": "Public browser flasher for the ITSZ Z-Deck Firmware Pack.",
@@ -19,17 +30,6 @@
     "forks_count": 0,
     "updated_at": "2026-06-19T14:19:53Z",
     "homepage": "https://its-ze.github.io/tdongle-usb-adapter/",
-    "topics": []
-  },
-  {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-06-19T10:57:17Z",
-    "homepage": null,
     "topics": []
   },
   {
