@@ -1,23 +1,23 @@
 [
   {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-06-20T14:29:32Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
     "name": "ITSZ-Studio",
     "html_url": "https://github.com/Its-ze/ITSZ-Studio",
     "description": "ITSZ's Studio photo viewer and editor.",
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-06-19T21:28:41Z",
+    "updated_at": "2026-06-21T05:13:12Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-20T19:55:41Z",
     "homepage": null,
     "topics": []
   },
