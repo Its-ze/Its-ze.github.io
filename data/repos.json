@@ -1,5 +1,16 @@
 [
   {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-23T04:19:49Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "Z-Deck-Web-Flasher",
     "html_url": "https://github.com/Its-ze/Z-Deck-Web-Flasher",
     "description": "Public browser flasher for the ITSZ Z-Deck Firmware Pack.",
@@ -29,17 +40,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-06-23T03:19:45Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-06-22T21:13:28Z",
     "homepage": null,
     "topics": []
   },
