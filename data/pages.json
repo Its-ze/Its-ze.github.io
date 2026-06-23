@@ -61,5 +61,14 @@
     "label": "GitHub Pages",
     "description": "Public T-Deck Cyberdeck T-Dongle control-unit flasher and deck metadata.",
     "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "roadlens-scout",
+    "title": "Roadlens Scout",
+    "url": "https://its-ze.github.io/roadlens-scout/",
+    "repoUrl": "https://github.com/Its-ze/roadlens-scout",
+    "label": "GitHub Pages",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "status": "Live GitHub Pages"
   }
 ]
