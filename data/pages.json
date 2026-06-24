@@ -70,5 +70,14 @@
     "label": "GitHub Pages",
     "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
     "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "faceloom",
+    "title": "Faceloom",
+    "url": "https://its-ze.github.io/faceloom/",
+    "repoUrl": "https://github.com/Its-ze/faceloom",
+    "label": "GitHub Pages",
+    "description": "Local face clustering and photo sorting for large personal image libraries.",
+    "status": "Live GitHub Pages"
   }
 ]

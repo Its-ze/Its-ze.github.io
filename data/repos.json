@@ -1,12 +1,23 @@
 [
   {
-    "name": "ITSZ-Studio",
-    "html_url": "https://github.com/Its-ze/ITSZ-Studio",
-    "description": "ITSZ's Studio photo viewer and editor.",
-    "language": "JavaScript",
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-06-24T03:04:45Z",
+    "updated_at": "2026-06-24T06:34:36Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "topics": []
+  },
+  {
+    "name": "faceloom",
+    "html_url": "https://github.com/Its-ze/faceloom",
+    "description": "Local face clustering and photo sorting for large personal image libraries.",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-06-24T04:50:38Z",
     "homepage": null,
     "topics": []
   },
@@ -17,19 +28,19 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-06-23T20:21:55Z",
+    "updated_at": "2026-06-24T04:34:47Z",
     "homepage": null,
     "topics": []
   },
   {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
+    "name": "ITSZ-Studio",
+    "html_url": "https://github.com/Its-ze/ITSZ-Studio",
+    "description": "ITSZ's Studio photo viewer and editor.",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-06-23T18:56:39Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "updated_at": "2026-06-24T03:04:45Z",
+    "homepage": null,
     "topics": []
   },
   {
