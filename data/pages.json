@@ -79,5 +79,14 @@
     "label": "GitHub Pages",
     "description": "Local face clustering and photo sorting for large personal image libraries.",
     "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "tabforge-cyberdeck",
+    "title": "Tabforge Cyberdeck",
+    "url": "https://its-ze.github.io/tabforge-cyberdeck/",
+    "repoUrl": "https://github.com/Its-ze/tabforge-cyberdeck",
+    "label": "GitHub Pages",
+    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
+    "status": "Live GitHub Pages"
   }
 ]
