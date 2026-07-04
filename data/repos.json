@@ -1,12 +1,34 @@
 [
   {
+    "name": "TabOS",
+    "html_url": "https://github.com/Its-ze/TabOS",
+    "description": "Touch-first field OS firmware for M5Stack Tab5.",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-04T00:54:08Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "poseidon",
+    "html_url": "https://github.com/Its-ze/poseidon",
+    "description": "80+ feature pentesting firmware for M5Stack Cardputer-Adv. WiFi, BLE, sub-GHz (CC1101), 2.4GHz (nRF24), LoRa (SX1262), IR, BadUSB, DHCP attacks, WPAD, MouseJack, BLE spam, signal replay, 6 themes. Supports LoRa-GNSS + Hydra RF hats + ESP32-C5 companion.",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-03T21:01:56Z",
+    "homepage": "https://github.com/GeneralDussDuss/poseidon/releases/latest",
+    "topics": []
+  },
+  {
     "name": "Its-ze.github.io",
     "html_url": "https://github.com/Its-ze/Its-ze.github.io",
     "description": "Public GitHub Pages hub for Its-ze projects and activity.",
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-03T14:32:10Z",
+    "updated_at": "2026-07-03T19:48:12Z",
     "homepage": null,
     "topics": []
   },
