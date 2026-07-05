@@ -1,5 +1,16 @@
 [
   {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-04T19:35:57Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "TabOS",
     "html_url": "https://github.com/Its-ze/TabOS",
     "description": "Touch-first field OS firmware for M5Stack Tab5.",
@@ -7,17 +18,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-07-04T18:28:37Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-04T13:57:16Z",
     "homepage": null,
     "topics": []
   },
