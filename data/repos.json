@@ -1,12 +1,12 @@
 [
   {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
+    "name": "tabforge-cyberdeck",
+    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
+    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
+    "language": "C",
+    "stargazers_count": 1,
     "forks_count": 0,
-    "updated_at": "2026-07-04T19:35:57Z",
+    "updated_at": "2026-07-05T05:41:43Z",
     "homepage": null,
     "topics": []
   },
@@ -15,9 +15,20 @@
     "html_url": "https://github.com/Its-ze/TabOS",
     "description": "Touch-first field OS firmware for M5Stack Tab5.",
     "language": "C++",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2026-07-05T05:39:58Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-04T18:28:37Z",
+    "updated_at": "2026-07-05T04:19:03Z",
     "homepage": null,
     "topics": []
   },
@@ -41,17 +52,6 @@
     "forks_count": 0,
     "updated_at": "2026-07-03T21:01:56Z",
     "homepage": "https://github.com/GeneralDussDuss/poseidon/releases/latest",
-    "topics": []
-  },
-  {
-    "name": "tabforge-cyberdeck",
-    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
-    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
-    "language": "C",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-02T00:37:50Z",
-    "homepage": null,
     "topics": []
   },
   {
