@@ -1,12 +1,23 @@
 [
   {
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-06T14:04:24Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "topics": []
+  },
+  {
     "name": "Its-ze.github.io",
     "html_url": "https://github.com/Its-ze/Its-ze.github.io",
     "description": "Public GitHub Pages hub for Its-ze projects and activity.",
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-06T04:37:46Z",
+    "updated_at": "2026-07-06T11:02:05Z",
     "homepage": null,
     "topics": []
   },
@@ -19,17 +30,6 @@
     "forks_count": 0,
     "updated_at": "2026-07-05T23:26:23Z",
     "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-05T11:47:42Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
     "topics": []
   },
   {
