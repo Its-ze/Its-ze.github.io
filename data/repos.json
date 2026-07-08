@@ -1,12 +1,12 @@
 [
   {
-    "name": "nightgrid-cyberdeck",
-    "html_url": "https://github.com/Its-ze/nightgrid-cyberdeck",
-    "description": "NightGrid Cyberdeck: a dark Linux and Windows USB field console for Heltec V3, GPS modules, Raspberry Pi Picos, and serial devices.",
-    "language": "TypeScript",
+    "name": "tabforge-cyberdeck",
+    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
+    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
+    "language": "C",
     "stargazers_count": 1,
     "forks_count": 0,
-    "updated_at": "2026-07-07T15:18:26Z",
+    "updated_at": "2026-07-08T02:32:40Z",
     "homepage": null,
     "topics": []
   },
@@ -17,7 +17,18 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-07T15:15:25Z",
+    "updated_at": "2026-07-07T20:14:13Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "nightgrid-cyberdeck",
+    "html_url": "https://github.com/Its-ze/nightgrid-cyberdeck",
+    "description": "NightGrid Cyberdeck: a dark Linux and Windows USB field console for Heltec V3, GPS modules, Raspberry Pi Picos, and serial devices.",
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2026-07-07T15:18:26Z",
     "homepage": null,
     "topics": []
   },
@@ -40,17 +51,6 @@
     "stargazers_count": 1,
     "forks_count": 0,
     "updated_at": "2026-07-05T23:26:23Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "tabforge-cyberdeck",
-    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
-    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
-    "language": "C",
-    "stargazers_count": 1,
-    "forks_count": 0,
-    "updated_at": "2026-07-05T05:41:43Z",
     "homepage": null,
     "topics": []
   },
