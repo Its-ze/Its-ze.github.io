@@ -1,13 +1,13 @@
 [
   {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
-    "stargazers_count": 0,
+    "name": "TabOS",
+    "html_url": "https://github.com/Its-ze/TabOS",
+    "description": "Touch-first field OS firmware for M5Stack Tab5.",
+    "language": "C++",
+    "stargazers_count": 2,
     "forks_count": 0,
-    "updated_at": "2026-07-09T12:47:26Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "updated_at": "2026-07-09T16:33:13Z",
+    "homepage": null,
     "topics": []
   },
   {
@@ -17,8 +17,19 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-09T09:56:33Z",
+    "updated_at": "2026-07-09T15:33:45Z",
     "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-09T12:47:26Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
     "topics": []
   },
   {
@@ -40,17 +51,6 @@
     "stargazers_count": 1,
     "forks_count": 0,
     "updated_at": "2026-07-07T15:18:26Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "TabOS",
-    "html_url": "https://github.com/Its-ze/TabOS",
-    "description": "Touch-first field OS firmware for M5Stack Tab5.",
-    "language": "C++",
-    "stargazers_count": 1,
-    "forks_count": 0,
-    "updated_at": "2026-07-05T23:26:23Z",
     "homepage": null,
     "topics": []
   },
