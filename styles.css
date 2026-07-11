@@ -107,6 +107,12 @@ input {
   background: rgba(255, 255, 255, 0.08);
 }
 
+.neural-feature{max-width:1180px;margin:0 auto 70px;padding:34px;display:grid;grid-template-columns:.8fr 1.2fr;gap:38px;align-items:center;border:1px solid rgba(100,217,106,.28);border-radius:16px;background:radial-gradient(circle at 85% 20%,rgba(45,212,191,.13),transparent 38%),#181a20;box-shadow:var(--shadow)}
+.neural-feature h2{font-size:42px;letter-spacing:-.045em;margin:8px 0 12px}
+.neural-feature p:not(.eyebrow){color:var(--muted);line-height:1.65}
+.neural-feature img{width:100%;border:1px solid var(--line);border-radius:10px;box-shadow:0 18px 45px rgba(0,0,0,.35)}
+@media(max-width:760px){.neural-feature{margin:0 18px 55px;grid-template-columns:1fr;padding:24px}.neural-feature h2{font-size:34px}}
+
 .icon-link,
 .button,
 .filter-button {

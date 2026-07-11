@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="Download Neural Forge for Windows or play the neural-network evolution playground in your browser.">
+    <meta name="theme-color" content="#080b13">
+    <meta property="og:title" content="Neural Forge — Evolution Playground">
+    <meta property="og:description" content="Build, mutate, and evolve neural networks across games and adversarial mazes.">
+    <meta property="og:image" content="assets/playground.png">
+    <title>Neural Forge — Evolution Playground</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22><rect width=%2264%22 height=%2264%22 rx=%2216%22 fill=%22%23b9ff66%22/><circle cx=%2220%22 cy=%2232%22 r=%226%22 fill=%22%23080b13%22/><circle cx=%2244%22 cy=%2218%22 r=%226%22 fill=%22%23080b13%22/><circle cx=%2244%22 cy=%2246%22 r=%226%22 fill=%22%23080b13%22/><path d=%22M25 29 39 21M25 35l14 8%22 stroke=%22%23080b13%22 stroke-width=%224%22/></svg>">
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="./"><span><i data-lucide="orbit"></i></span><b>NEURAL FORGE</b></a>
+      <nav><a href="#features">Features</a><a href="#arenas">Arenas</a><a href="game/">Play online</a></nav>
+      <a class="hub-link" href="../"><i data-lucide="arrow-left"></i> Its-ze Hub</a>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span></span> WINDOWS APP + BROWSER GAME</p>
+          <h1>Build a brain.<br><em>Set it loose.</em></h1>
+          <p class="lede">A visual neural-network evolution playground where populations learn Snake, Pong, Breakout, Lunar Lander, adversarial mazes, and more.</p>
+          <div class="actions">
+            <a class="button primary" href="downloads/Neural-Forge-Setup-0.3.0.exe" download><i data-lucide="download"></i><span><strong>Download for Windows</strong><small>Installer · v0.3.0 · 79.2 MB</small></span></a>
+            <a class="button" href="game/"><i data-lucide="gamepad-2"></i><span><strong>Play in browser</strong><small>No install required</small></span></a>
+          </div>
+          <div class="trust-row"><span><i data-lucide="shield-check"></i> Production build</span><span><i data-lucide="cpu"></i> 12 neural families</span><span><i data-lucide="git-branch"></i> GitHub Pages</span></div>
+        </div>
+        <div class="hero-visual">
+          <div class="window-bar"><i></i><i></i><i></i><span>Neural Forge / Playground</span></div>
+          <img src="assets/playground.png" alt="Neural Forge evolution playground showing the Snake arena and neural network controls">
+          <div class="floating-card generation"><span>GENERATION</span><strong data-counter="460">000</strong><small>solver population</small></div>
+          <div class="floating-card fitness"><span>BEST FITNESS</span><strong>79.8</strong><small>and climbing</small></div>
+        </div>
+      </section>
+
+      <section class="stat-strip" aria-label="Neural Forge statistics">
+        <div><strong>11</strong><span>training arenas</span></div><div><strong>12</strong><span>network families</span></div><div><strong>3×</strong><span>overclock boost</span></div><div><strong>2</strong><span>maze populations</span></div>
+      </section>
+
+      <section id="features" class="section">
+        <div class="section-head"><p class="eyebrow">THE LAB IS YOURS</p><h2>Evolution you can see and control</h2><p>Change the topology, mutation pressure, population, acceleration, and reward. Every generation is visible.</p></div>
+        <div class="feature-grid">
+          <article><i data-lucide="brain-circuit"></i><h3>Real neuroevolution</h3><p>Forward passes, selection, crossover, elitism, species, and weight mutations—not decorative numbers.</p></article>
+          <article><i data-lucide="network"></i><h3>12 network families</h3><p>Dense, recurrent, LSTM, GRU, convolutional, spiking, liquid, attention, and reservoir-style brains.</p></article>
+          <article><i data-lucide="zap"></i><h3>Gamified overclocking</h3><p>Earn Forge Points, levels, streaks, and temporary 3× boosts while controlling generation acceleration.</p></article>
+          <article><i data-lucide="route"></i><h3>Adversarial Maze Forge</h3><p>Draw a maze or evolve one neural architect against another population trying to solve it.</p></article>
+          <article><i data-lucide="scan-line"></i><h3>Custom screen tasks</h3><p>Select a window, observation region, allowed controls, and visual reward signal in the desktop app.</p></article>
+          <article><i data-lucide="activity"></i><h3>Live genome view</h3><p>Watch neurons, positive and negative connections, fitness curves, species, and champion genomes.</p></article>
+        </div>
+      </section>
+
+      <section id="arenas" class="section arenas">
+        <div class="section-head"><p class="eyebrow">TRAINING ARENAS</p><h2>Pick a problem and release the population</h2></div>
+        <div class="arena-list">
+          <span>Snake</span><span>Tic-Tac-Toe</span><span>Minesweeper</span><span>Flappy</span><span>Pong</span><span>Logic Lab</span><span>Breakout</span><span>Dino Run</span><span>Merge 2048</span><span>Lunar Lander</span><span>Maze Forge</span>
+        </div>
+        <div class="play-card"><div><p class="eyebrow">READY TO EVOLVE?</p><h2>Run the complete playground now.</h2><p>Your browser progress stays on this device. Install the Windows edition for desktop capture and project files.</p></div><div><a class="button primary" href="game/"><i data-lucide="play"></i><span><strong>Launch browser game</strong><small>Opens full playground</small></span></a><a class="text-link" href="downloads/Neural-Forge-Setup-0.3.0.exe" download>Get Windows installer <i data-lucide="arrow-down-to-line"></i></a></div></div>
+      </section>
+    </main>
+
+    <footer><span>Neural Forge v0.3.0 · Built by Its-ze</span><span>SHA256: <code>08DD3ADA…E1E9B88</code></span><a href="https://github.com/Its-ze">GitHub</a></footer>
+  </body>
+</html>

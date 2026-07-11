@@ -1,0 +1,120 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - link "NEURAL FORGE" [ref=f1e3] [cursor=pointer]:
+      - /url: ./
+    - navigation [ref=f1e12]:
+      - link "Features" [ref=f1e13] [cursor=pointer]:
+        - /url: "#features"
+      - link "Arenas" [ref=f1e14] [cursor=pointer]:
+        - /url: "#arenas"
+      - link "Play online" [ref=f1e15] [cursor=pointer]:
+        - /url: game/
+    - link "Its-ze Hub" [ref=f1e16] [cursor=pointer]:
+      - /url: ../
+  - main [ref=f1e19]:
+    - generic [ref=f1e20]:
+      - generic [ref=f1e21]:
+        - paragraph [ref=f1e22]: WINDOWS APP + BROWSER GAME
+        - heading [level=1] [ref=f1e24]:
+          - text: Build a brain.
+          - emphasis [ref=f1e25]: Set it loose.
+        - paragraph [ref=f1e26]: A visual neural-network evolution playground where populations learn Snake, Pong, Breakout, Lunar Lander, adversarial mazes, and more.
+        - generic [ref=f1e27]:
+          - link "Download for Windows Installer · v0.3.0 · 79.2 MB" [ref=f1e28] [cursor=pointer]:
+            - /url: downloads/Neural-Forge-Setup-0.3.0.exe
+            - generic [ref=f1e32]:
+              - strong [ref=f1e33]: Download for Windows
+              - generic [ref=f1e34]: Installer · v0.3.0 · 79.2 MB
+          - link "Play in browser No install required" [ref=f1e35] [cursor=pointer]:
+            - /url: game/
+            - generic [ref=f1e38]:
+              - strong [ref=f1e39]: Play in browser
+              - generic [ref=f1e40]: No install required
+        - generic [ref=f1e41]:
+          - generic [ref=f1e42]: Production build
+          - generic [ref=f1e46]: 12 neural families
+          - generic [ref=f1e50]: GitHub Pages
+      - generic [ref=f1e55]:
+        - generic [ref=f1e56]: Neural Forge / Playground
+        - img "Neural Forge evolution playground showing the Snake arena and neural network controls" [ref=f1e61]
+        - generic [ref=f1e62]:
+          - generic [ref=f1e63]: GENERATION
+          - strong [ref=f1e64]: "165"
+          - generic [ref=f1e65]: solver population
+        - generic [ref=f1e66]:
+          - generic [ref=f1e67]: BEST FITNESS
+          - strong [ref=f1e68]: "79.8"
+          - generic [ref=f1e69]: and climbing
+    - region "Neural Forge statistics" [ref=f1e70]:
+      - generic [ref=f1e71]:
+        - strong [ref=f1e72]: "11"
+        - generic [ref=f1e73]: training arenas
+      - generic [ref=f1e74]:
+        - strong [ref=f1e75]: "12"
+        - generic [ref=f1e76]: network families
+      - generic [ref=f1e77]:
+        - strong [ref=f1e78]: 3×
+        - generic [ref=f1e79]: overclock boost
+      - generic [ref=f1e80]:
+        - strong [ref=f1e81]: "2"
+        - generic [ref=f1e82]: maze populations
+    - generic [ref=f1e83]:
+      - generic [ref=f1e84]:
+        - paragraph [ref=f1e85]: THE LAB IS YOURS
+        - heading "Evolution you can see and control" [level=2] [ref=f1e86]
+        - paragraph [ref=f1e87]: Change the topology, mutation pressure, population, acceleration, and reward. Every generation is visible.
+      - generic [ref=f1e88]:
+        - article [ref=f1e89]:
+          - heading "Real neuroevolution" [level=3] [ref=f1e102]
+          - paragraph [ref=f1e103]: Forward passes, selection, crossover, elitism, species, and weight mutations—not decorative numbers.
+        - article [ref=f1e104]:
+          - heading "12 network families" [level=3] [ref=f1e110]
+          - paragraph [ref=f1e111]: Dense, recurrent, LSTM, GRU, convolutional, spiking, liquid, attention, and reservoir-style brains.
+        - article [ref=f1e112]:
+          - heading "Gamified overclocking" [level=3] [ref=f1e115]
+          - paragraph [ref=f1e116]: Earn Forge Points, levels, streaks, and temporary 3× boosts while controlling generation acceleration.
+        - article [ref=f1e117]:
+          - heading "Adversarial Maze Forge" [level=3] [ref=f1e122]
+          - paragraph [ref=f1e123]: Draw a maze or evolve one neural architect against another population trying to solve it.
+        - article [ref=f1e124]:
+          - heading "Custom screen tasks" [level=3] [ref=f1e130]
+          - paragraph [ref=f1e131]: Select a window, observation region, allowed controls, and visual reward signal in the desktop app.
+        - article [ref=f1e132]:
+          - heading "Live genome view" [level=3] [ref=f1e135]
+          - paragraph [ref=f1e136]: Watch neurons, positive and negative connections, fitness curves, species, and champion genomes.
+    - generic [ref=f1e137]:
+      - generic [ref=f1e138]:
+        - paragraph [ref=f1e139]: TRAINING ARENAS
+        - heading "Pick a problem and release the population" [level=2] [ref=f1e140]
+      - generic [ref=f1e141]:
+        - generic [ref=f1e142]: Snake
+        - generic [ref=f1e143]: Tic-Tac-Toe
+        - generic [ref=f1e144]: Minesweeper
+        - generic [ref=f1e145]: Flappy
+        - generic [ref=f1e146]: Pong
+        - generic [ref=f1e147]: Logic Lab
+        - generic [ref=f1e148]: Breakout
+        - generic [ref=f1e149]: Dino Run
+        - generic [ref=f1e150]: Merge 2048
+        - generic [ref=f1e151]: Lunar Lander
+        - generic [ref=f1e152]: Maze Forge
+      - generic [ref=f1e153]:
+        - generic [ref=f1e154]:
+          - paragraph [ref=f1e155]: READY TO EVOLVE?
+          - heading "Run the complete playground now." [level=2] [ref=f1e156]
+          - paragraph [ref=f1e157]: Your browser progress stays on this device. Install the Windows edition for desktop capture and project files.
+        - generic [ref=f1e158]:
+          - link "Launch browser game Opens full playground" [ref=f1e159] [cursor=pointer]:
+            - /url: game/
+            - generic [ref=f1e162]:
+              - strong [ref=f1e163]: Launch browser game
+              - generic [ref=f1e164]: Opens full playground
+          - link "Get Windows installer" [ref=f1e165] [cursor=pointer]:
+            - /url: downloads/Neural-Forge-Setup-0.3.0.exe
+  - contentinfo [ref=f1e168]:
+    - generic [ref=f1e169]: Neural Forge v0.3.0 · Built by Its-ze
+    - generic [ref=f1e170]:
+      - text: "SHA256:"
+      - code [ref=f1e171]: 08DD3ADA…E1E9B88
+    - link "GitHub" [ref=f1e172] [cursor=pointer]:
+      - /url: https://github.com/Its-ze
