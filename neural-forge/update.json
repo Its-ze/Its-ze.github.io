@@ -1,7 +1,7 @@
 {
-  "version": "0.5.2",
-  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.2.exe",
-  "sha256": "105B81C1BD6FD303779ED4FB493F8D8AFF0CEFD0256A5AEDDFAA289A7A460CA0",
-  "size": 81846522,
-  "notes": "Adds configurable timed multi-move episodes. Each agent can make repeated decisions until it wins, loses, or reaches the time limit, and every champion's real ordered move sequence is stored by generation."
+  "version": "0.5.3",
+  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.3.exe",
+  "sha256": "392A4685CFB0CB507A36446A2DFBF0F09093901FB77F37CD49182119D7BE5B3B",
+  "size": 81864737,
+  "notes": "Makes Pong a visible, inspectable champion replay with play, pause, previous, next, and scrubbing. Pong now evaluates real horizontal ball travel, paddle collisions, misses, and rallies using the same deterministic physics shown on screen."
 }
