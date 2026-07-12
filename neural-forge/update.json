@@ -1,7 +1,7 @@
 {
-  "version": "0.5.1",
-  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.1.exe",
-  "sha256": "0EC421387549186FA2008B89CE572574DE007C55A4DA69ABAFAE23E8D47AF06F",
-  "size": 81834690,
-  "notes": "Adds automatic update detection, clear release details, download progress, SHA-256 verification, and one-click update installation inside Neural Forge."
+  "version": "0.5.2",
+  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.2.exe",
+  "sha256": "105B81C1BD6FD303779ED4FB493F8D8AFF0CEFD0256A5AEDDFAA289A7A460CA0",
+  "size": 81846522,
+  "notes": "Adds configurable timed multi-move episodes. Each agent can make repeated decisions until it wins, loses, or reaches the time limit, and every champion's real ordered move sequence is stored by generation."
 }
