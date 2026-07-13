@@ -1,12 +1,23 @@
 [
   {
+    "name": "Z-Deck-Web-Flasher",
+    "html_url": "https://github.com/Its-ze/Z-Deck-Web-Flasher",
+    "description": "Public browser flasher for the ITSZ Z-Deck Firmware Pack.",
+    "language": "HTML",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-13T04:11:35Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "Its-ze.github.io",
     "html_url": "https://github.com/Its-ze/Its-ze.github.io",
     "description": "Public GitHub Pages hub for Its-ze projects and activity.",
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-12T19:29:51Z",
+    "updated_at": "2026-07-13T03:58:27Z",
     "homepage": null,
     "topics": []
   },
@@ -19,17 +30,6 @@
     "forks_count": 0,
     "updated_at": "2026-07-12T11:29:53Z",
     "homepage": "https://Its-ze.github.io/roadlens-scout/",
-    "topics": []
-  },
-  {
-    "name": "Z-Deck-Web-Flasher",
-    "html_url": "https://github.com/Its-ze/Z-Deck-Web-Flasher",
-    "description": "Public browser flasher for the ITSZ Z-Deck Firmware Pack.",
-    "language": "HTML",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-12T05:51:31Z",
-    "homepage": null,
     "topics": []
   },
   {
