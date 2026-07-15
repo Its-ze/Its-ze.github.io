@@ -1,5 +1,27 @@
 [
   {
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-15T11:47:59Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "topics": []
+  },
+  {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-15T08:35:02Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "tabforge-cyberdeck",
     "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
     "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
@@ -19,28 +41,6 @@
     "forks_count": 0,
     "updated_at": "2026-07-15T05:21:43Z",
     "homepage": "https://github.com/GeneralDussDuss/poseidon/releases/latest",
-    "topics": []
-  },
-  {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-15T04:16:48Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
-    "topics": []
-  },
-  {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-15T03:32:17Z",
-    "homepage": null,
     "topics": []
   },
   {
