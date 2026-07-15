@@ -1,23 +1,45 @@
 [
   {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-15T03:30:18Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
-    "topics": []
-  },
-  {
     "name": "tabforge-cyberdeck",
     "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
     "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
     "language": "C",
     "stargazers_count": 1,
     "forks_count": 0,
-    "updated_at": "2026-07-15T03:26:13Z",
+    "updated_at": "2026-07-15T05:33:16Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "poseidon",
+    "html_url": "https://github.com/Its-ze/poseidon",
+    "description": "80+ feature pentesting firmware for M5Stack Cardputer-Adv. WiFi, BLE, sub-GHz (CC1101), 2.4GHz (nRF24), LoRa (SX1262), IR, BadUSB, DHCP attacks, WPAD, MouseJack, BLE spam, signal replay, 6 themes. Supports LoRa-GNSS + Hydra RF hats + ESP32-C5 companion.",
+    "language": "C",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-15T05:21:43Z",
+    "homepage": "https://github.com/GeneralDussDuss/poseidon/releases/latest",
+    "topics": []
+  },
+  {
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-15T04:16:48Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "topics": []
+  },
+  {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-15T03:32:17Z",
     "homepage": null,
     "topics": []
   },
@@ -29,17 +51,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-07-15T03:10:34Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-14T19:42:04Z",
     "homepage": null,
     "topics": []
   },
@@ -63,17 +74,6 @@
     "forks_count": 0,
     "updated_at": "2026-07-07T15:18:26Z",
     "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "poseidon",
-    "html_url": "https://github.com/Its-ze/poseidon",
-    "description": "80+ feature pentesting firmware for M5Stack Cardputer-Adv. WiFi, BLE, sub-GHz (CC1101), 2.4GHz (nRF24), LoRa (SX1262), IR, BadUSB, DHCP attacks, WPAD, MouseJack, BLE spam, signal replay, 6 themes. Supports LoRa-GNSS + Hydra RF hats + ESP32-C5 companion.",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-03T21:01:56Z",
-    "homepage": "https://github.com/GeneralDussDuss/poseidon/releases/latest",
     "topics": []
   },
   {
