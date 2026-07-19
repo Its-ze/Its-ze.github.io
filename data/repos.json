@@ -1,5 +1,27 @@
 [
   {
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-19T11:23:55Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "topics": []
+  },
+  {
+    "name": "Its-ze.github.io",
+    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
+    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-19T08:32:07Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "mobile-base-imager",
     "html_url": "https://github.com/Its-ze/mobile-base-imager",
     "description": "Safe native Windows and Linux SD card formatter and flasher for Mobile Base and Raspberry Pi images",
@@ -30,28 +52,6 @@
     "forks_count": 0,
     "updated_at": "2026-07-19T05:04:06Z",
     "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "Its-ze.github.io",
-    "html_url": "https://github.com/Its-ze/Its-ze.github.io",
-    "description": "Public GitHub Pages hub for Its-ze projects and activity.",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-19T03:52:23Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-18T11:17:46Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
     "topics": []
   },
   {
