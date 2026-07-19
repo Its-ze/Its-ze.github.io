@@ -1,23 +1,34 @@
 [
   {
-    "name": "tabforge-cyberdeck",
-    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
-    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
-    "language": "C",
-    "stargazers_count": 1,
-    "forks_count": 0,
-    "updated_at": "2026-07-19T03:44:20Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
     "name": "mobile-base-imager",
     "html_url": "https://github.com/Its-ze/mobile-base-imager",
     "description": "Safe native Windows and Linux SD card formatter and flasher for Mobile Base and Raspberry Pi images",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-19T01:47:51Z",
+    "updated_at": "2026-07-19T06:23:22Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "tabforge-cyberdeck",
+    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
+    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
+    "language": "C",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2026-07-19T05:41:23Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "TabOS",
+    "html_url": "https://github.com/Its-ze/TabOS",
+    "description": "Touch-first field OS firmware for M5Stack Tab5.",
+    "language": "C++",
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "updated_at": "2026-07-19T05:04:06Z",
     "homepage": null,
     "topics": []
   },
@@ -28,7 +39,7 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-18T19:30:35Z",
+    "updated_at": "2026-07-19T03:52:23Z",
     "homepage": null,
     "topics": []
   },
@@ -63,17 +74,6 @@
     "forks_count": 0,
     "updated_at": "2026-07-15T05:21:43Z",
     "homepage": "https://github.com/GeneralDussDuss/poseidon/releases/latest",
-    "topics": []
-  },
-  {
-    "name": "TabOS",
-    "html_url": "https://github.com/Its-ze/TabOS",
-    "description": "Touch-first field OS firmware for M5Stack Tab5.",
-    "language": "C++",
-    "stargazers_count": 2,
-    "forks_count": 0,
-    "updated_at": "2026-07-09T16:33:13Z",
-    "homepage": null,
     "topics": []
   },
   {
