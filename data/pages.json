@@ -88,5 +88,14 @@
     "label": "GitHub Pages",
     "description": "Safe native Windows and Linux SD card formatter and flasher for Mobile Base and Raspberry Pi images",
     "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "tdongle-usb-adapter",
+    "title": "Tdongle Usb Adapter",
+    "url": "https://its-ze.github.io/tdongle-usb-adapter/",
+    "repoUrl": "https://github.com/Its-ze/tdongle-usb-adapter",
+    "label": "GitHub Pages",
+    "description": "VoidLink T-Dongle USB NCM virtual adapter firmware and deck installer.",
+    "status": "Live GitHub Pages"
   }
 ]
