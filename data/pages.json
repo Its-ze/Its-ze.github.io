@@ -97,5 +97,14 @@
     "label": "GitHub Pages",
     "description": "VoidLink T-Dongle USB NCM virtual adapter firmware and deck installer.",
     "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "neural-forge",
+    "title": "Neural Forge",
+    "url": "https://its-ze.github.io/neural-forge/",
+    "repoUrl": "https://github.com/Its-ze/neural-forge",
+    "label": "GitHub Pages",
+    "description": "Archived Neural Forge neural-network evolution playground",
+    "status": "Live GitHub Pages"
   }
 ]

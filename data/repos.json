@@ -1,12 +1,34 @@
 [
   {
+    "name": "nightgrid-cyberdeck",
+    "html_url": "https://github.com/Its-ze/nightgrid-cyberdeck",
+    "description": "NightGrid Cyberdeck: a dark Linux and Windows USB field console for Heltec V3, GPS modules, Raspberry Pi Picos, and serial devices.",
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "forks_count": 0,
+    "updated_at": "2026-07-23T23:02:50Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "neural-forge",
+    "html_url": "https://github.com/Its-ze/neural-forge",
+    "description": "Archived Neural Forge neural-network evolution playground",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-07-23T22:40:25Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "Its-ze.github.io",
     "html_url": "https://github.com/Its-ze/Its-ze.github.io",
     "description": "Public GitHub Pages hub for Its-ze projects and activity.",
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-07-23T14:35:43Z",
+    "updated_at": "2026-07-23T19:44:53Z",
     "homepage": null,
     "topics": []
   },
@@ -74,17 +96,6 @@
     "forks_count": 0,
     "updated_at": "2026-07-15T05:21:43Z",
     "homepage": "https://github.com/GeneralDussDuss/poseidon/releases/latest",
-    "topics": []
-  },
-  {
-    "name": "nightgrid-cyberdeck",
-    "html_url": "https://github.com/Its-ze/nightgrid-cyberdeck",
-    "description": "NightGrid Cyberdeck: a dark Linux and Windows USB field console for Heltec V3, GPS modules, Raspberry Pi Picos, and serial devices.",
-    "language": "TypeScript",
-    "stargazers_count": 1,
-    "forks_count": 0,
-    "updated_at": "2026-07-07T15:18:26Z",
-    "homepage": null,
     "topics": []
   },
   {
