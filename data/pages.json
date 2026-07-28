@@ -36,15 +36,6 @@
     "status": "Live GitHub Pages"
   },
   {
-    "repo": "itsolutionsdigital.github.io",
-    "title": "IT Solutions Digital",
-    "url": "https://itsolutions.digital/",
-    "repoUrl": "https://github.com/Its-ze/itsolutionsdigital.github.io",
-    "label": "Custom domain",
-    "description": "Public business website and ticketing entrypoint served from GitHub Pages.",
-    "status": "GitHub Pages custom domain"
-  },
-  {
     "repo": "tdeck-cyberdeck",
     "title": "Tdeck Cyberdeck",
     "url": "https://its-ze.github.io/tdeck-cyberdeck/",
