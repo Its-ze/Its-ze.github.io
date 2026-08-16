@@ -1,12 +1,23 @@
 [
   {
+    "name": "WavePilot-SDR",
+    "html_url": "https://github.com/Its-ze/WavePilot-SDR",
+    "description": "Cross-platform RTL-SDR scanner and live listener for Windows and Linux",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-08-16T01:19:46Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "Its-ze.github.io",
     "html_url": "https://github.com/Its-ze/Its-ze.github.io",
     "description": "Public GitHub Pages hub for Its-ze projects and activity.",
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-08-15T12:57:53Z",
+    "updated_at": "2026-08-15T18:46:50Z",
     "homepage": null,
     "topics": []
   },
@@ -51,17 +62,6 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "updated_at": "2026-07-24T05:01:52Z",
-    "homepage": null,
-    "topics": []
-  },
-  {
-    "name": "WavePilot-SDR",
-    "html_url": "https://github.com/Its-ze/WavePilot-SDR",
-    "description": "Cross-platform RTL-SDR scanner and live listener for Windows and Linux",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-07-24T04:30:24Z",
     "homepage": null,
     "topics": []
   },
