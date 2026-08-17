@@ -1,13 +1,13 @@
 [
   {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
+    "name": "Z-Deck-Web-Flasher",
+    "html_url": "https://github.com/Its-ze/Z-Deck-Web-Flasher",
+    "description": "Public browser flasher for the ITSZ Z-Deck Firmware Pack.",
+    "language": "HTML",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-08-17T10:49:37Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "updated_at": "2026-08-17T18:44:25Z",
+    "homepage": null,
     "topics": []
   },
   {
@@ -17,19 +17,19 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-08-17T07:15:52Z",
+    "updated_at": "2026-08-17T13:07:10Z",
     "homepage": null,
     "topics": []
   },
   {
-    "name": "Z-Deck-Web-Flasher",
-    "html_url": "https://github.com/Its-ze/Z-Deck-Web-Flasher",
-    "description": "Public browser flasher for the ITSZ Z-Deck Firmware Pack.",
-    "language": "HTML",
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-08-17T00:06:15Z",
-    "homepage": null,
+    "updated_at": "2026-08-17T10:49:37Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
     "topics": []
   },
   {
