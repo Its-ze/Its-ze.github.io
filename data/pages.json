@@ -106,5 +106,14 @@
     "label": "Custom domain",
     "description": "Public site for Itsolutionsdigital.",
     "status": "GitHub Pages custom domain"
+  },
+  {
+    "repo": "quiltforge",
+    "title": "Quiltforge",
+    "url": "https://its-ze.github.io/quiltforge/",
+    "repoUrl": "https://github.com/Its-ze/quiltforge",
+    "label": "GitHub Pages",
+    "description": "Offline Windows studio that turns photos into paintable barn quilt patterns.",
+    "status": "Live GitHub Pages"
   }
 ]

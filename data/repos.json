@@ -1,13 +1,13 @@
 [
   {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
+    "name": "quiltforge",
+    "html_url": "https://github.com/Its-ze/quiltforge",
+    "description": "Offline Windows studio that turns photos into paintable barn quilt patterns.",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-08-20T10:45:50Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "updated_at": "2026-08-20T17:40:39Z",
+    "homepage": null,
     "topics": []
   },
   {
@@ -17,8 +17,19 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-08-20T07:06:17Z",
+    "updated_at": "2026-08-20T13:15:47Z",
     "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-08-20T10:45:50Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
     "topics": []
   },
   {
