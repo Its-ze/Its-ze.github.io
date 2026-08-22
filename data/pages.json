@@ -99,15 +99,6 @@
     "status": "Live GitHub Pages"
   },
   {
-    "repo": "itsolutionsdigital.github.io",
-    "title": "Itsolutionsdigital",
-    "url": "https://itsolutions.digital/",
-    "repoUrl": "https://github.com/Its-ze/itsolutionsdigital.github.io",
-    "label": "Custom domain",
-    "description": "Public site for Itsolutionsdigital.",
-    "status": "GitHub Pages custom domain"
-  },
-  {
     "repo": "quiltforge",
     "title": "Quiltforge",
     "url": "https://its-ze.github.io/quiltforge/",
