@@ -1,13 +1,13 @@
 [
   {
-    "name": "roadlens-scout",
-    "html_url": "https://github.com/Its-ze/roadlens-scout",
-    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
-    "language": "TypeScript",
-    "stargazers_count": 2,
+    "name": "tabforge-cyberdeck",
+    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
+    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
+    "language": "C",
+    "stargazers_count": 3,
     "forks_count": 0,
-    "updated_at": "2026-10-14T10:20:11Z",
-    "homepage": "https://Its-ze.github.io/roadlens-scout/",
+    "updated_at": "2026-10-14T16:19:01Z",
+    "homepage": null,
     "topics": []
   },
   {
@@ -17,19 +17,19 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-10-14T04:50:22Z",
+    "updated_at": "2026-10-14T11:49:19Z",
     "homepage": null,
     "topics": []
   },
   {
-    "name": "tabforge-cyberdeck",
-    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
-    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
-    "language": "C",
+    "name": "roadlens-scout",
+    "html_url": "https://github.com/Its-ze/roadlens-scout",
+    "description": "RoadLens Scout ESP32 sensor flasher and Android signal mapping app.",
+    "language": "TypeScript",
     "stargazers_count": 2,
     "forks_count": 0,
-    "updated_at": "2026-09-01T20:42:56Z",
-    "homepage": null,
+    "updated_at": "2026-10-14T10:20:11Z",
+    "homepage": "https://Its-ze.github.io/roadlens-scout/",
     "topics": []
   },
   {
