@@ -106,5 +106,14 @@
     "label": "GitHub Pages",
     "description": "Offline Windows studio that turns photos into paintable barn quilt patterns.",
     "status": "Live GitHub Pages"
+  },
+  {
+    "repo": "itsolutionsdigital.github.io",
+    "title": "Itsolutionsdigital",
+    "url": "https://itsolutions.digital/",
+    "repoUrl": "https://github.com/Its-ze/itsolutionsdigital.github.io",
+    "label": "Custom domain",
+    "description": "Public site for Itsolutionsdigital.",
+    "status": "GitHub Pages custom domain"
   }
 ]
