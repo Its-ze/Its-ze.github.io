@@ -1,12 +1,23 @@
 [
   {
+    "name": "tabforge-cyberdeck",
+    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
+    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
+    "language": "C",
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "updated_at": "2026-10-26T01:48:20Z",
+    "homepage": null,
+    "topics": []
+  },
+  {
     "name": "Its-ze.github.io",
     "html_url": "https://github.com/Its-ze/Its-ze.github.io",
     "description": "Public GitHub Pages hub for Its-ze projects and activity.",
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-10-25T16:13:59Z",
+    "updated_at": "2026-10-25T20:48:43Z",
     "homepage": null,
     "topics": []
   },
@@ -19,17 +30,6 @@
     "forks_count": 0,
     "updated_at": "2026-10-25T10:20:15Z",
     "homepage": "https://Its-ze.github.io/roadlens-scout/",
-    "topics": []
-  },
-  {
-    "name": "tabforge-cyberdeck",
-    "html_url": "https://github.com/Its-ze/tabforge-cyberdeck",
-    "description": "M5Stack Tab5 cyberdeck for C6L Meshtastic, MeshCore, T-Deck, IR, mic, and OTA updates.",
-    "language": "C",
-    "stargazers_count": 3,
-    "forks_count": 0,
-    "updated_at": "2026-10-14T16:19:01Z",
-    "homepage": null,
     "topics": []
   },
   {
