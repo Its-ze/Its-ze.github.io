@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.4",
-  "sourceCommit": "7079437902461eb4eed4b9a5df224fa6650ca8f5",
+  "version": "0.5.5",
+  "sourceCommit": "af818b21e1cdeb0e0ce031bde0d164c4d434bcdd",
   "sourceDirty": false,
   "node": "v24.18.0",
   "npm": "11.16.0",
-  "packageLockSha256": "8f32d862e1047441fe92a05c0cf875368454fffc75bdd3e19e85fd387cc2936f",
+  "packageLockSha256": "01f7fc4d670da8cca76c29809ad95c34648dcabaa0345892d160c1975094c7b2",
   "vite": "6.4.3",
   "artifacts": {
     "assets/index-B-Yor5Iw.css": {
       "sha256": "3d29536323ddda9f5483def7f4abff2310ffa44081d4037bc3873b7117008737",
       "size": 37665
     },
-    "assets/index-BXM8pAUM.js": {
-      "sha256": "e67c3b8a383c77582da27f08a83ad5aed24fccd91633a16db3160eb1977797c1",
-      "size": 125031
+    "assets/index-Ct6K4hsJ.js": {
+      "sha256": "1fb770d4c07f17ef632b1ee94c6228e665b5409fd3bb103bea64452b67725724",
+      "size": 125286
     },
     "index.html": {
-      "sha256": "f7c7e8195f5f25d1e9717d5a09cde83f630cef7b3c666fba17b78aad97f6be78",
+      "sha256": "319872283d5ce0bacb18f9655ca714d74b94b90bcea3dd9d01d0e82796e6cf77",
       "size": 919
     }
   }
