@@ -106,5 +106,14 @@
     "label": "Custom domain",
     "description": "Public site for Itsolutionsdigital.",
     "status": "GitHub Pages custom domain"
+  },
+  {
+    "repo": "neural-forge",
+    "title": "Neural Forge",
+    "url": "https://its-ze.github.io/neural-forge/",
+    "repoUrl": "https://github.com/Its-ze/neural-forge",
+    "label": "GitHub Pages",
+    "description": "Archived Neural Forge neural-network evolution playground",
+    "status": "Live GitHub Pages"
   }
 ]
