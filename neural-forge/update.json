@@ -1,9 +1,9 @@
 {
-  "version": "0.5.4",
-  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.4.exe",
-  "sha256": "7fd7913fbb2b4f6f3af61dd6ce2b53ee86a7c69bdf38c019107b178ab4d6c001",
-  "size": 83024053,
-  "notes": "Preserves trained champions, generation archives and replay/settings in versioned saves; validates older/malformed files safely. Inspection now uses actual evaluated observations, activations and applied actions. Adds regression tests and build provenance; reduces browser JavaScript payload.",
-  "sourceCommit": "7079437902461eb4eed4b9a5df224fa6650ca8f5",
-  "provenance": "https://its-ze.github.io/neural-forge/releases/0.5.4/release.json"
+  "version": "0.5.5",
+  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.5.exe",
+  "sha256": "0b7e8957193f1af6db55a8e04a87e2536c8276af149f3b39b8a32523253b44a7",
+  "size": 83024119,
+  "notes": "Retains trained populations/champions, generation archives, replay and settings in validated versioned saves; inspection uses actual evaluated inputs, activations and applied actions. Restores all icons while retaining an 82% smaller JS bundle. Includes regression tests and source/build/artifact provenance.",
+  "sourceCommit": "af818b21e1cdeb0e0ce031bde0d164c4d434bcdd",
+  "provenance": "https://its-ze.github.io/neural-forge/releases/0.5.5/release.json"
 }

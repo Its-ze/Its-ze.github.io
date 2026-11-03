@@ -1,0 +1,126 @@
+{
+  "version": "0.5.5",
+  "sourceCommit": "af818b21e1cdeb0e0ce031bde0d164c4d434bcdd",
+  "canonical": "https://git.itsz.studio/itsz/neural-forge",
+  "tag": "v0.5.5",
+  "ci": "https://github.com/Its-ze/neural-forge/actions/runs/41657244080",
+  "webBuild": {
+    "schemaVersion": 1,
+    "version": "0.5.5",
+    "sourceCommit": "af818b21e1cdeb0e0ce031bde0d164c4d434bcdd",
+    "sourceDirty": false,
+    "node": "v24.18.0",
+    "npm": "11.16.0",
+    "packageLockSha256": "01f7fc4d670da8cca76c29809ad95c34648dcabaa0345892d160c1975094c7b2",
+    "vite": "6.4.3",
+    "artifacts": {
+      "assets/index-B-Yor5Iw.css": {
+        "sha256": "3d29536323ddda9f5483def7f4abff2310ffa44081d4037bc3873b7117008737",
+        "size": 37665
+      },
+      "assets/index-Ct6K4hsJ.js": {
+        "sha256": "1fb770d4c07f17ef632b1ee94c6228e665b5409fd3bb103bea64452b67725724",
+        "size": 125286
+      },
+      "index.html": {
+        "sha256": "319872283d5ce0bacb18f9655ca714d74b94b90bcea3dd9d01d0e82796e6cf77",
+        "size": 919
+      }
+    }
+  },
+  "windowsBuild": {
+    "schemaVersion": 1,
+    "version": "0.5.5",
+    "sourceCommit": "af818b21e1cdeb0e0ce031bde0d164c4d434bcdd",
+    "sourceDirty": false,
+    "node": "v24.18.0",
+    "npm": "11.16.0",
+    "packageLockSha256": "76a2b18ece69a5928e2f21cb288410f81320ab8e8cb6be9c4dab97bfafc45563",
+    "vite": "6.4.3",
+    "artifacts": {
+      "assets/index-B-Yor5Iw.css": {
+        "sha256": "3d29536323ddda9f5483def7f4abff2310ffa44081d4037bc3873b7117008737",
+        "size": 37665
+      },
+      "assets/index-Ct6K4hsJ.js": {
+        "sha256": "1fb770d4c07f17ef632b1ee94c6228e665b5409fd3bb103bea64452b67725724",
+        "size": 125286
+      },
+      "index.html": {
+        "sha256": "6e7e88475999e655ce916ce1dff9bc33eb7726902ee654d187b71b6c0fb022c7",
+        "size": 933
+      }
+    }
+  },
+  "nativeArtifacts": {
+    "Neural Forge Setup 0.5.5.exe": {
+      "size": 83024119,
+      "sha256": "0b7e8957193f1af6db55a8e04a87e2536c8276af149f3b39b8a32523253b44a7"
+    },
+    "Neural Forge 0.5.5.exe": {
+      "size": 82796402,
+      "sha256": "4ea623710de68f0143e7205862d105c0c255dd70c4aaa291411f3a5cb4b071d0"
+    },
+    "neural-forge-0.5.5-linux-x64.tar.gz": {
+      "size": 108259690,
+      "sha256": "230de7dfeb9b4f81c987b9870f1c66124d78793f1e0e442836c913368357080d"
+    }
+  },
+  "verification": {
+    "unitTests": 7,
+    "builtBrowserTests": 2,
+    "iconRendering": "no unrendered Lucide placeholders",
+    "windowsPackagedSmoke": {
+      "ok": true,
+      "version": "0.5.5",
+      "archive": "Viewing generation 1 of 1 \u00b7 champion fitness 25.4 \u00b7 FOLLOWING LATEST",
+      "trace": "Recorded evaluation decision 1: UP. Activations and observations were captured during this forward pass; arena thresholds and legal-action rules determine the applied action."
+    },
+    "linuxPackagedSmoke": {
+      "ok": true,
+      "version": "0.5.5",
+      "archive": "Viewing generation 1 of 1 \u00b7 champion fitness 24.5 \u00b7 FOLLOWING LATEST",
+      "trace": "Recorded evaluation decision 1: UP. Activations and observations were captured during this forward pass; arena thresholds and legal-action rules determine the applied action."
+    },
+    "installedWindowsUpgrade": "pending acceptance on an authorized Windows installation"
+  },
+  "releaseUrl": "https://github.com/Its-ze/neural-forge/releases/tag/v0.5.5",
+  "publishedAssets": [
+    {
+      "name": "desktop-smoke.json",
+      "size": 297,
+      "digest": "sha256:ef26eddee1b79fc5fac46cf3d1a90949b2621a3fee3cec0ec65ef576b93e7047",
+      "browser_download_url": "https://github.com/Its-ze/neural-forge/releases/download/v0.5.5/desktop-smoke.json"
+    },
+    {
+      "name": "linux-desktop-smoke.json",
+      "size": 297,
+      "digest": "sha256:fcad5d51b6566273d919afa684e7496c715b82193c38c1a672069b0300592b62",
+      "browser_download_url": "https://github.com/Its-ze/neural-forge/releases/download/v0.5.5/linux-desktop-smoke.json"
+    },
+    {
+      "name": "neural-forge-0.5.5-linux-x64.tar.gz",
+      "size": 108259690,
+      "digest": "sha256:230de7dfeb9b4f81c987b9870f1c66124d78793f1e0e442836c913368357080d",
+      "browser_download_url": "https://github.com/Its-ze/neural-forge/releases/download/v0.5.5/neural-forge-0.5.5-linux-x64.tar.gz"
+    },
+    {
+      "name": "Neural.Forge.0.5.5.exe",
+      "size": 82796402,
+      "digest": "sha256:4ea623710de68f0143e7205862d105c0c255dd70c4aaa291411f3a5cb4b071d0",
+      "browser_download_url": "https://github.com/Its-ze/neural-forge/releases/download/v0.5.5/Neural.Forge.0.5.5.exe"
+    },
+    {
+      "name": "Neural.Forge.Setup.0.5.5.exe",
+      "size": 83024119,
+      "digest": "sha256:0b7e8957193f1af6db55a8e04a87e2536c8276af149f3b39b8a32523253b44a7",
+      "browser_download_url": "https://github.com/Its-ze/neural-forge/releases/download/v0.5.5/Neural.Forge.Setup.0.5.5.exe"
+    },
+    {
+      "name": "web-build-info.json",
+      "size": 727,
+      "digest": "sha256:9baa7c9899e073619d81c473d4abf1efac493dc161d29016ddeee1888928567a",
+      "browser_download_url": "https://github.com/Its-ze/neural-forge/releases/download/v0.5.5/web-build-info.json"
+    }
+  ]
+}
