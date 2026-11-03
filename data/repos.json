@@ -6,7 +6,7 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-11-03T00:56:16Z",
+    "updated_at": "2026-11-03T14:44:58Z",
     "homepage": null,
     "topics": []
   },
@@ -17,8 +17,19 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0,
-    "updated_at": "2026-10-29T10:32:22Z",
+    "updated_at": "2026-11-03T14:39:40Z",
     "homepage": null,
+    "topics": []
+  },
+  {
+    "name": "tdeck-cyberdeck",
+    "html_url": "https://github.com/Its-ze/tdeck-cyberdeck",
+    "description": "Public T-Deck Cyberdeck T-Dongle control-unit flasher and deck metadata.",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "updated_at": "2026-11-03T14:30:22Z",
+    "homepage": "https://its-ze.github.io/tdeck-cyberdeck/",
     "topics": []
   },
   {
@@ -151,17 +162,6 @@
     "forks_count": 0,
     "updated_at": "2026-06-23T04:05:02Z",
     "homepage": "https://its-ze.github.io/tdongle-usb-adapter/",
-    "topics": []
-  },
-  {
-    "name": "tdeck-cyberdeck",
-    "html_url": "https://github.com/Its-ze/tdeck-cyberdeck",
-    "description": "Public T-Deck Cyberdeck T-Dongle control-unit flasher and deck metadata.",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "updated_at": "2026-06-18T14:42:37Z",
-    "homepage": "https://its-ze.github.io/tdeck-cyberdeck/",
     "topics": []
   },
   {
