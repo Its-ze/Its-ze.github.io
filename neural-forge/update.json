@@ -1,7 +1,9 @@
 {
-  "version": "0.5.3",
-  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.3.exe",
-  "sha256": "392A4685CFB0CB507A36446A2DFBF0F09093901FB77F37CD49182119D7BE5B3B",
-  "size": 81864737,
-  "notes": "Makes Pong a visible, inspectable champion replay with play, pause, previous, next, and scrubbing. Pong now evaluates real horizontal ball travel, paddle collisions, misses, and rallies using the same deterministic physics shown on screen."
+  "version": "0.5.4",
+  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.4.exe",
+  "sha256": "7fd7913fbb2b4f6f3af61dd6ce2b53ee86a7c69bdf38c019107b178ab4d6c001",
+  "size": 83024053,
+  "notes": "Preserves trained champions, generation archives and replay/settings in versioned saves; validates older/malformed files safely. Inspection now uses actual evaluated observations, activations and applied actions. Adds regression tests and build provenance; reduces browser JavaScript payload.",
+  "sourceCommit": "7079437902461eb4eed4b9a5df224fa6650ca8f5",
+  "provenance": "https://its-ze.github.io/neural-forge/releases/0.5.4/release.json"
 }

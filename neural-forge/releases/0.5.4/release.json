@@ -1,0 +1,87 @@
+{
+  "version": "0.5.4",
+  "sourceCommit": "7079437902461eb4eed4b9a5df224fa6650ca8f5",
+  "canonical": "https://git.itsz.studio/itsz/neural-forge",
+  "tag": "v0.5.4",
+  "ci": "https://github.com/Its-ze/neural-forge/actions/runs/41655876323",
+  "webBuild": {
+    "schemaVersion": 1,
+    "version": "0.5.4",
+    "sourceCommit": "7079437902461eb4eed4b9a5df224fa6650ca8f5",
+    "sourceDirty": false,
+    "node": "v24.18.0",
+    "npm": "11.16.0",
+    "packageLockSha256": "8f32d862e1047441fe92a05c0cf875368454fffc75bdd3e19e85fd387cc2936f",
+    "vite": "6.4.3",
+    "artifacts": {
+      "assets/index-B-Yor5Iw.css": {
+        "sha256": "3d29536323ddda9f5483def7f4abff2310ffa44081d4037bc3873b7117008737",
+        "size": 37665
+      },
+      "assets/index-BXM8pAUM.js": {
+        "sha256": "e67c3b8a383c77582da27f08a83ad5aed24fccd91633a16db3160eb1977797c1",
+        "size": 125031
+      },
+      "index.html": {
+        "sha256": "f7c7e8195f5f25d1e9717d5a09cde83f630cef7b3c666fba17b78aad97f6be78",
+        "size": 919
+      }
+    }
+  },
+  "windowsBuild": {
+    "schemaVersion": 1,
+    "version": "0.5.4",
+    "sourceCommit": "7079437902461eb4eed4b9a5df224fa6650ca8f5",
+    "sourceDirty": false,
+    "node": "v24.18.0",
+    "npm": "11.16.0",
+    "packageLockSha256": "f1ee8f2f1104bf602f9d4b4d222a4874c71114240fd2c6fc7a3091b3944171c3",
+    "vite": "6.4.3",
+    "artifacts": {
+      "assets/index-B-Yor5Iw.css": {
+        "sha256": "3d29536323ddda9f5483def7f4abff2310ffa44081d4037bc3873b7117008737",
+        "size": 37665
+      },
+      "assets/index-BXM8pAUM.js": {
+        "sha256": "e67c3b8a383c77582da27f08a83ad5aed24fccd91633a16db3160eb1977797c1",
+        "size": 125031
+      },
+      "index.html": {
+        "sha256": "0d3543e1776d32f868eef8c208b5cfa902d023d164df3f2e0fd60404b6e0c176",
+        "size": 933
+      }
+    }
+  },
+  "nativeArtifacts": {
+    "Neural Forge Setup 0.5.4.exe": {
+      "size": 83024053,
+      "sha256": "7fd7913fbb2b4f6f3af61dd6ce2b53ee86a7c69bdf38c019107b178ab4d6c001"
+    },
+    "Neural Forge 0.5.4.exe": {
+      "size": 82796323,
+      "sha256": "be2f89a8b9a7ebb14675f2ab33b5d424b6dd6eb8d53a533d748cdc91a10b4ef1"
+    },
+    "neural-forge-0.5.4-linux-x64.tar.gz": {
+      "size": 108260480,
+      "sha256": "49e047a689681ed8823888be6b5360adf65864ec6140a0a242403233b7c83f7a"
+    }
+  },
+  "verification": {
+    "unitTests": 7,
+    "builtBrowserTests": 2,
+    "windowsPackagedSmoke": {
+      "ok": true,
+      "version": "0.5.4",
+      "archive": "Viewing generation 1 of 1 \u00b7 champion fitness 24.4 \u00b7 FOLLOWING LATEST",
+      "trace": "Recorded evaluation decision 1: STAY. Activations and observations were captured during this forward pass; arena thresholds and legal-action rules determine the applied action."
+    },
+    "linuxPackagedSmoke": {
+      "ok": true,
+      "version": "0.5.4",
+      "archive": "Viewing generation 1 of 1 \u00b7 champion fitness 24.1 \u00b7 FOLLOWING LATEST",
+      "trace": "Recorded evaluation decision 1: STAY. Activations and observations were captured during this forward pass; arena thresholds and legal-action rules determine the applied action."
+    },
+    "installedWindowsUpgrade": "not yet accepted on Zach\u2019s Windows desktop"
+  },
+  "releaseUrl": "https://github.com/Its-ze/neural-forge/releases/tag/v0.5.4"
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "version": "0.5.4",
+  "sourceCommit": "7079437902461eb4eed4b9a5df224fa6650ca8f5",
+  "sourceDirty": false,
+  "node": "v24.18.0",
+  "npm": "11.16.0",
+  "packageLockSha256": "8f32d862e1047441fe92a05c0cf875368454fffc75bdd3e19e85fd387cc2936f",
+  "vite": "6.4.3",
+  "artifacts": {
+    "assets/index-B-Yor5Iw.css": {
+      "sha256": "3d29536323ddda9f5483def7f4abff2310ffa44081d4037bc3873b7117008737",
+      "size": 37665
+    },
+    "assets/index-BXM8pAUM.js": {
+      "sha256": "e67c3b8a383c77582da27f08a83ad5aed24fccd91633a16db3160eb1977797c1",
+      "size": 125031
+    },
+    "index.html": {
+      "sha256": "f7c7e8195f5f25d1e9717d5a09cde83f630cef7b3c666fba17b78aad97f6be78",
+      "size": 919
+    }
+  }
+}
