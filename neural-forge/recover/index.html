@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Neural Forge save recovery</title><style>body{max-width:48rem;margin:3rem auto;padding:0 1.2rem;background:#101521;color:#edf1fa;font:16px/1.6 system-ui,sans-serif}a{color:#91c5ff}button{display:block;margin:.8rem 0;padding:.7rem 1rem;background:#7daeff;color:#101521;border:0;border-radius:.4rem;font:inherit;cursor:pointer}button:focus-visible{outline:3px solid white;outline-offset:3px}.notice{background:#202a3b;padding:1rem;border-radius:.5rem}#status{min-height:3em}</style></head><body>
+<h1>Neural Forge save recovery</h1>
+<p>Use this page in the same browser, browser profile and device where you played Neural Forge. Repeat on any others you used. Private browsing data may already have been cleared by your browser.</p>
+<p>This page downloads a copy only when you click a button. It does not delete or change your saved data, and it does not upload it. Store the downloaded files somewhere safe.</p>
+<h2>1. Download your saved data</h2>
+<button type="button" data-key="neural-forge-project" data-file="neural-forge-project.json">Download saved project</button>
+<button type="button" data-key="neural-forge-project-backup" data-file="neural-forge-project-backup.json">Download previous project backup</button>
+<button type="button" data-key="neural-forge-progress" data-file="neural-forge-progress-backup.json">Download progression backup</button>
+<p id="status" role="status" aria-live="polite"></p>
+<p class="notice">If a button says no data was found, it only means that entry is absent in this browser profile on this device. Check every browser and device you used. Progression is exported for safekeeping; the desktop app has no separate progression-only import.</p>
+<h2>2. Open and verify your project</h2>
+<ol><li>Get Neural Forge 0.5.6 from the <a href="https://appstore.itsz.studio/">ITSZ App Store</a> or <a href="https://github.com/Its-ze/neural-forge/releases/tag/v0.5.6">release downloads</a>.</li><li>In the desktop app choose Open project and select the downloaded project file. If necessary, try the previous project backup.</li><li>Check the experiment, archive and replay you expect; then save a new desktop copy. Keep the original downloads and progression backup too.</li></ol>
+<p>Older settings-only saves can open with unsupported trained counters reset. If a file fails to open, keep it unchanged for recovery. Do not clear browser data until your backups are verified.</p>
+<script>
+'use strict';
+const status = document.getElementById('status');
+document.querySelectorAll('button[data-key]').forEach(button => button.addEventListener('click', () => {
+  try {
+    const value = localStorage.getItem(button.dataset.key);
+    if (value === null) { status.textContent = 'No data for this entry was found in this browser profile. Check other profiles and devices.'; return; }
+    const url = URL.createObjectURL(new Blob([value], {type:'application/json;charset=utf-8'}));
+    const link = document.createElement('a'); link.href = url; link.download = button.dataset.file; document.body.appendChild(link); link.click(); link.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 10000);
+    status.textContent = 'Download started. Keep the file safe and verify your project in the desktop app.';
+  } catch (error) { status.textContent = 'Unable to access browser storage or start the download. Your existing data was not changed; check browser storage and download permissions.'; }
+}));
+</script></body></html>
