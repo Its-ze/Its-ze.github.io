@@ -1,9 +1,9 @@
 {
-  "version": "0.5.5",
-  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.5.exe",
-  "sha256": "0b7e8957193f1af6db55a8e04a87e2536c8276af149f3b39b8a32523253b44a7",
-  "size": 83024119,
-  "notes": "Retains trained populations/champions, generation archives, replay and settings in validated versioned saves; inspection uses actual evaluated inputs, activations and applied actions. Restores all icons while retaining an 82% smaller JS bundle. Includes regression tests and source/build/artifact provenance.",
-  "sourceCommit": "af818b21e1cdeb0e0ce031bde0d164c4d434bcdd",
-  "provenance": "https://its-ze.github.io/neural-forge/releases/0.5.5/release.json"
+  "version": "0.5.6",
+  "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.6.exe",
+  "sha256": "8c15b618cee9753eff71a82f9530aa963cefb3219d1ce35d24649bcf3790a3df",
+  "size": 83022018,
+  "notes": "Standalone offline release: local training, project save/open and replay; optional manual updates; unavailable custom screen tasks clearly labeled.",
+  "sourceCommit": "a0d234827418a8690ca7302c8005745a3c1ddfc9",
+  "provenance": "https://its-ze.github.io/neural-forge/releases/0.5.6/release.json"
 }
