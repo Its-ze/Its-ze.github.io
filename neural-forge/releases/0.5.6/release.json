@@ -1,0 +1,18 @@
+{
+  "version": "0.5.6",
+  "sourceCommit": "a0d234827418a8690ca7302c8005745a3c1ddfc9",
+  "canonical": "https://git.itsz.studio/itsz/neural-forge",
+  "tag": "v0.5.6",
+  "ci": "https://github.com/Its-ze/neural-forge/actions/runs/42124455410",
+  "releaseUrl": "https://github.com/Its-ze/neural-forge/releases/tag/v0.5.6",
+  "windowsInstaller": {
+    "publishedSourceUrl": "https://github.com/Its-ze/neural-forge/releases/download/v0.5.6/Neural.Forge.Setup.0.5.6.exe",
+    "url": "https://its-ze.github.io/neural-forge/downloads/Neural-Forge-Setup-0.5.6.exe",
+    "sha256": "8c15b618cee9753eff71a82f9530aa963cefb3219d1ce35d24649bcf3790a3df",
+    "size": 83022018
+  },
+  "verification": {
+    "packagedWindowsRenderer": "CI passed",
+    "installedWindowsUpgrade": "not verified; no personal installation used"
+  }
+}
